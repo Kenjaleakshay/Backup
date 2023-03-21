@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Regression2]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="ai.ds.utilities.Listenersetup"/>
+    <listener class-name="ai.ds.utilities.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="ai.ds.testlayerr.Buyfunctionality">
+        <methods>
+          <include name="launchstart"/>
+          <include name="logout"/>
+          <include name="aftertest"/>
+          <include name="verifyBuyFunctionality" invocation-numbers="1"/>
+          <include name="beforestart"/>
+        </methods>
+      </class> <!-- ai.ds.testlayerr.Buyfunctionality -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Regression2] -->

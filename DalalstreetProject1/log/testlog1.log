@@ -1,0 +1,23 @@
+2023-01-05 19:07:10,430 [main] INFO Dalalstreet Automation Framework - Execution started
+2023-01-05 19:08:00,839 [main] INFO Dalalstreet Automation Framework - Execution Ended
+2023-01-05 19:11:39,261 [main] INFO Dalalstreet Automation Framework - Execution started
+2023-01-05 19:11:55,020 [main] INFO Dalalstreet Automation Framework - Execution Ended
+2023-01-05 19:21:57,524 [main] INFO Dalalstreet Automation Framework - Execution started
+2023-01-05 19:22:07,474 [main] INFO Dalalstreet Automation Framework - Chrome launched,maximized
+2023-01-05 19:22:11,323 [main] INFO Dalalstreet Automation Framework - log in done
+2023-01-05 19:22:11,343 [main] INFO Dalalstreet Automation Framework - Test Execution Started
+2023-01-05 19:22:22,992 [main] INFO Dalalstreet Automation Framework - successful
+2023-01-05 19:22:23,001 [main] INFO Dalalstreet Automation Framework - Test Execution succeed
+2023-01-05 19:22:30,159 [main] INFO Dalalstreet Automation Framework - Chrome launched,maximized
+2023-01-05 19:22:34,241 [main] INFO Dalalstreet Automation Framework - log in done
+2023-01-05 19:22:34,244 [main] INFO Dalalstreet Automation Framework - Test Execution Started
+2023-01-05 19:22:46,366 [main] INFO Dalalstreet Automation Framework - Test Execution Failed
+2023-01-05 19:22:46,625 [main] INFO Dalalstreet Automation Framework - Execution Ended
+2023-01-06 16:43:08,354 [main] INFO Dalalstreet Automation Framework - Execution started
+2023-01-06 16:43:28,178 [main] INFO Dalalstreet Automation Framework - Chrome launched,maximized
+2023-01-06 16:43:32,908 [main] INFO Dalalstreet Automation Framework - log in done
+2023-01-06 16:43:45,092 [main] INFO Dalalstreet Automation Framework - successful
+2023-01-06 16:43:53,093 [main] INFO Dalalstreet Automation Framework - Chrome launched,maximized
+2023-01-06 16:43:56,856 [main] INFO Dalalstreet Automation Framework - log in done
+2023-01-06 16:44:08,953 [main] INFO Dalalstreet Automation Framework - successful
+2023-01-06 16:44:08,964 [main] INFO Dalalstreet Automation Framework - Execution Ended
